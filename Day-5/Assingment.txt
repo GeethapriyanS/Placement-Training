@@ -1,0 +1,8 @@
+Homework - 07/02/2025
+
+1. Number of valid parenthesis expressions that consists of N pair of "(" and ")" braces
+2. Number of different ways N+1 factors can be completely parenthesized
+3. A rooted binary tree with one root node where each node as either 0 or 2 branches descending from it . How many rooted BT are present with N-internal nodes
+4. Count of structurally unique BST with N keys 
+5. Count of number of ways to divide a circle using N non-intersecting chords
+6. Number of ways to reach from B-L to T-R without crossing main diagonal in N*N matrix
