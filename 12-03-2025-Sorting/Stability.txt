@@ -1,0 +1,16 @@
+Sorting Algorithm & Stability
+Selection Sort → ❌ Unstable
+
+Swaps distant elements, disrupting the order of duplicates.
+Bubble Sort → ✅ Stable
+
+Uses adjacent swaps, keeping equal elements in order.
+Merge Sort → ✅ Stable
+
+Maintains order while merging sorted subarrays.
+Insertion Sort → ✅ Stable
+
+Inserts elements without disturbing previous duplicates.
+Quick Sort → ❌ Unstable
+
+Swaps and partitioning may change the order of duplicates.

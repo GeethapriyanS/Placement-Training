@@ -1,0 +1,29 @@
+🔹 Merge Sort
+📌 Approach: Divide and Conquer
+📌 Process:
+
+Recursively splits the array into two halves until each sub-array has one element.
+Merges sorted sub-arrays back together.
+📌 Time Complexity:
+
+Best case: 𝑂(𝑛 log 𝑛)
+Average case: 𝑂(𝑛 log 𝑛)
+Worst case: 𝑂(𝑛 log 𝑛)
+📌 Space Complexity: 𝑂(𝑛) (Requires extra space for merging)
+📌 Stable?: ✅ Yes (Maintains relative order of equal elements)
+📌 Best Used For: Large datasets, linked lists, external sorting (files on disk).
+
+🔹 Quick Sort
+📌 Approach: Divide and Conquer
+📌 Process:
+
+Picks a pivot element and partitions the array into elements smaller and larger than the pivot.
+Recursively sorts the sub-arrays.
+📌 Time Complexity:
+
+Best case: 𝑂(𝑛 log 𝑛)
+Average case: 𝑂(𝑛 log 𝑛)
+Worst case: 𝑂(𝑛²) (When the worst pivot is chosen)
+📌 Space Complexity: 𝑂(log 𝑛) (In-place sorting, only recursive stack memory)
+📌 Stable?: ❌ No (Relative order of equal elements may change)
+📌 Best Used For: Large datasets, when space is a concern, and when a good pivot strategy is used.
